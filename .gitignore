@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Text Processor/*
+!/Text Processor/task/
+/Text Processor/task/*
+!/Text Processor/task/src
+!/Text Processor/task/formatted.txt
+!/Text Processor/task/result.txt
+!/Text Processor/task/history.json
+!/Text Processor/task/fie.txt

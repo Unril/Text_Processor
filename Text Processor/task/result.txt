@@ -1,0 +1,337 @@
+== History ==
+Text:
+The sun is shining brightly in the clear blue sky.
+
+Characters: 50
+Characters excluding spaces: 41
+Most used character: i (5 times)
+
+Words: 10
+Most used word: the (2 times)
+
+
+Text:
+The quick brown fox jumps over the lazy dog.
+
+Characters: 44
+Characters excluding spaces: 36
+Most used character: o (4 times)
+
+Words: 9
+Most used word: the (2 times)
+
+
+Text:
+Artistic expression is a reflection of the soul.
+Brush strokes, melodies, and words tell stories.
+Creativity is the essence of the human spirit.
+
+Characters: 144
+Characters excluding spaces: 122
+Most used characters: s, e (16 times)
+
+Words: 23
+Most used word: the (3 times)
+
+
+Text:
+Bob knew us.
+
+Characters: 12
+Characters excluding spaces: 10
+Most used character: -
+
+Words: 3
+Most used word: -
+
+
+Text:
+Did you hear?
+
+Characters: 13
+Characters excluding spaces: 11
+Most used character: -
+
+Words: 3
+Most used word: -
+
+
+Text:
+The moonlight paints the world in shades of silver.
+
+Characters: 51
+Characters excluding spaces: 43
+Most used characters: h, e, o, i, s (4 times)
+
+Words: 9
+Most used word: the (2 times)
+
+
+Text:
+The bookshelf was filled with novels, each holding its own unique story.
+
+Characters: 72
+Characters excluding spaces: 61
+Most used characters: e, o (6 times)
+
+Words: 12
+Most used word: -
+
+
+Text:
+The cat in the hat wore a red and white striped hat.
+
+Characters: 52
+Characters excluding spaces: 41
+Most used characters: e, t (6 times)
+
+Words: 12
+Most used words: the, hat (2 times)
+
+
+Text:
+They sat down.
+
+Characters: 14
+Characters excluding spaces: 12
+Most used character: -
+
+Words: 3
+Most used word: -
+
+
+Text:
+Sit down, Alex!
+
+Characters: 15
+Characters excluding spaces: 13
+Most used character: -
+
+Words: 3
+Most used word: -
+
+
+Text:
+Peter Piper picked a peck of pickled peppers.
+
+Characters: 45
+Characters excluding spaces: 38
+Most used character: e (8 times)
+
+Words: 8
+Most used word: -
+
+
+Text:
+They told.
+
+Characters: 10
+Characters excluding spaces: 9
+Most used character: -
+
+Words: 2
+Most used word: -
+
+
+Text:
+Once upon a time in a land far, far away,
+there lived a brave knight and a fearsome dragon.
+Their epic battle would go down in history.
+
+Characters: 135
+Characters excluding spaces: 109
+Most used character: a (14 times)
+
+Words: 27
+Most used word: a (4 times)
+
+
+Text:
+I never saw a purple cow,
+I never hope to see one.
+
+Characters: 50
+Characters excluding spaces: 39
+Most used character: e (9 times)
+
+Words: 12
+Most used words: i, never (2 times)
+
+
+Text:
+In a world full of chaos and uncertainty,
+finding inner peace becomes a valuable treasure.
+Meditation and mindfulness can guide the way.
+
+Characters: 136
+Characters excluding spaces: 115
+Most used characters: n, a, e (13 times)
+
+Words: 22
+Most used words: a, and (2 times)
+
+
+File:
+file0.txt
+
+Characters: 50
+Characters excluding spaces: 41
+Most used character: i (5 times)
+
+Words: 10
+Most used word: the (2 times)
+
+
+File:
+file1.txt
+
+Characters: 44
+Characters excluding spaces: 36
+Most used character: o (4 times)
+
+Words: 9
+Most used word: the (2 times)
+
+
+File:
+file2.txt
+
+Characters: 144
+Characters excluding spaces: 122
+Most used characters: s, e (16 times)
+
+Words: 23
+Most used word: the (3 times)
+
+
+File:
+file3.txt
+
+Characters: 12
+Characters excluding spaces: 10
+Most used character: -
+
+Words: 3
+Most used word: -
+
+
+File:
+file4.txt
+
+Characters: 13
+Characters excluding spaces: 11
+Most used character: -
+
+Words: 3
+Most used word: -
+
+
+File:
+file5.txt
+
+Characters: 51
+Characters excluding spaces: 43
+Most used characters: h, e, o, i, s (4 times)
+
+Words: 9
+Most used word: the (2 times)
+
+
+File:
+file6.txt
+
+Characters: 72
+Characters excluding spaces: 61
+Most used characters: e, o (6 times)
+
+Words: 12
+Most used word: -
+
+
+File:
+file7.txt
+
+Characters: 52
+Characters excluding spaces: 41
+Most used characters: e, t (6 times)
+
+Words: 12
+Most used words: the, hat (2 times)
+
+
+File:
+file8.txt
+
+Characters: 14
+Characters excluding spaces: 12
+Most used character: -
+
+Words: 3
+Most used word: -
+
+
+File:
+file9.txt
+
+Characters: 15
+Characters excluding spaces: 13
+Most used character: -
+
+Words: 3
+Most used word: -
+
+
+File:
+file10.txt
+
+Characters: 45
+Characters excluding spaces: 38
+Most used character: e (8 times)
+
+Words: 8
+Most used word: -
+
+
+File:
+file11.txt
+
+Characters: 10
+Characters excluding spaces: 9
+Most used character: -
+
+Words: 2
+Most used word: -
+
+
+File:
+file12.txt
+
+Characters: 135
+Characters excluding spaces: 109
+Most used character: a (14 times)
+
+Words: 27
+Most used word: a (4 times)
+
+
+File:
+file13.txt
+
+Characters: 50
+Characters excluding spaces: 39
+Most used character: e (9 times)
+
+Words: 12
+Most used words: i, never (2 times)
+
+
+File:
+file14.txt
+
+Characters: 136
+Characters excluding spaces: 115
+Most used characters: n, a, e (13 times)
+
+Words: 22
+Most used words: a, and (2 times)
+

@@ -1,0 +1,668 @@
+[
+    {
+        "type": "text",
+        "content": "The sun is shining brightly in the clear blue sky.",
+        "characters": {
+            "count": 50,
+            "exclude-spaces": 41,
+            "most-used": {
+                "elements": [
+                    "i"
+                ],
+                "count": 5
+            }
+        },
+        "words": {
+            "count": 10,
+            "most-used": {
+                "elements": [
+                    "the"
+                ],
+                "count": 2
+            }
+        }
+    },
+    {
+        "type": "text",
+        "content": "The quick brown fox jumps over the lazy dog.",
+        "characters": {
+            "count": 44,
+            "exclude-spaces": 36,
+            "most-used": {
+                "elements": [
+                    "o"
+                ],
+                "count": 4
+            }
+        },
+        "words": {
+            "count": 9,
+            "most-used": {
+                "elements": [
+                    "the"
+                ],
+                "count": 2
+            }
+        }
+    },
+    {
+        "type": "text",
+        "content": "Artistic expression is a reflection of the soul.\nBrush strokes, melodies, and words tell stories.\nCreativity is the essence of the human spirit.",
+        "characters": {
+            "count": 144,
+            "exclude-spaces": 122,
+            "most-used": {
+                "elements": [
+                    "s",
+                    "e"
+                ],
+                "count": 16
+            }
+        },
+        "words": {
+            "count": 23,
+            "most-used": {
+                "elements": [
+                    "the"
+                ],
+                "count": 3
+            }
+        }
+    },
+    {
+        "type": "text",
+        "content": "Bob knew us.",
+        "characters": {
+            "count": 12,
+            "exclude-spaces": 10,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        },
+        "words": {
+            "count": 3,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        }
+    },
+    {
+        "type": "text",
+        "content": "Did you hear?",
+        "characters": {
+            "count": 13,
+            "exclude-spaces": 11,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        },
+        "words": {
+            "count": 3,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        }
+    },
+    {
+        "type": "text",
+        "content": "The moonlight paints the world in shades of silver.",
+        "characters": {
+            "count": 51,
+            "exclude-spaces": 43,
+            "most-used": {
+                "elements": [
+                    "h",
+                    "e",
+                    "o",
+                    "i",
+                    "s"
+                ],
+                "count": 4
+            }
+        },
+        "words": {
+            "count": 9,
+            "most-used": {
+                "elements": [
+                    "the"
+                ],
+                "count": 2
+            }
+        }
+    },
+    {
+        "type": "text",
+        "content": "The bookshelf was filled with novels, each holding its own unique story.",
+        "characters": {
+            "count": 72,
+            "exclude-spaces": 61,
+            "most-used": {
+                "elements": [
+                    "e",
+                    "o"
+                ],
+                "count": 6
+            }
+        },
+        "words": {
+            "count": 12,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        }
+    },
+    {
+        "type": "text",
+        "content": "The cat in the hat wore a red and white striped hat.",
+        "characters": {
+            "count": 52,
+            "exclude-spaces": 41,
+            "most-used": {
+                "elements": [
+                    "e",
+                    "t"
+                ],
+                "count": 6
+            }
+        },
+        "words": {
+            "count": 12,
+            "most-used": {
+                "elements": [
+                    "the",
+                    "hat"
+                ],
+                "count": 2
+            }
+        }
+    },
+    {
+        "type": "text",
+        "content": "They sat down.",
+        "characters": {
+            "count": 14,
+            "exclude-spaces": 12,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        },
+        "words": {
+            "count": 3,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        }
+    },
+    {
+        "type": "text",
+        "content": "Sit down, Alex!",
+        "characters": {
+            "count": 15,
+            "exclude-spaces": 13,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        },
+        "words": {
+            "count": 3,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        }
+    },
+    {
+        "type": "text",
+        "content": "Peter Piper picked a peck of pickled peppers.",
+        "characters": {
+            "count": 45,
+            "exclude-spaces": 38,
+            "most-used": {
+                "elements": [
+                    "e"
+                ],
+                "count": 8
+            }
+        },
+        "words": {
+            "count": 8,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        }
+    },
+    {
+        "type": "text",
+        "content": "They told.",
+        "characters": {
+            "count": 10,
+            "exclude-spaces": 9,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        },
+        "words": {
+            "count": 2,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        }
+    },
+    {
+        "type": "text",
+        "content": "Once upon a time in a land far, far away,\nthere lived a brave knight and a fearsome dragon.\nTheir epic battle would go down in history.",
+        "characters": {
+            "count": 135,
+            "exclude-spaces": 109,
+            "most-used": {
+                "elements": [
+                    "a"
+                ],
+                "count": 14
+            }
+        },
+        "words": {
+            "count": 27,
+            "most-used": {
+                "elements": [
+                    "a"
+                ],
+                "count": 4
+            }
+        }
+    },
+    {
+        "type": "text",
+        "content": "I never saw a purple cow,\nI never hope to see one.",
+        "characters": {
+            "count": 50,
+            "exclude-spaces": 39,
+            "most-used": {
+                "elements": [
+                    "e"
+                ],
+                "count": 9
+            }
+        },
+        "words": {
+            "count": 12,
+            "most-used": {
+                "elements": [
+                    "i",
+                    "never"
+                ],
+                "count": 2
+            }
+        }
+    },
+    {
+        "type": "text",
+        "content": "In a world full of chaos and uncertainty,\nfinding inner peace becomes a valuable treasure.\nMeditation and mindfulness can guide the way.",
+        "characters": {
+            "count": 136,
+            "exclude-spaces": 115,
+            "most-used": {
+                "elements": [
+                    "n",
+                    "a",
+                    "e"
+                ],
+                "count": 13
+            }
+        },
+        "words": {
+            "count": 22,
+            "most-used": {
+                "elements": [
+                    "a",
+                    "and"
+                ],
+                "count": 2
+            }
+        }
+    },
+    {
+        "type": "file",
+        "content": "file0.txt",
+        "characters": {
+            "count": 50,
+            "exclude-spaces": 41,
+            "most-used": {
+                "elements": [
+                    "i"
+                ],
+                "count": 5
+            }
+        },
+        "words": {
+            "count": 10,
+            "most-used": {
+                "elements": [
+                    "the"
+                ],
+                "count": 2
+            }
+        }
+    },
+    {
+        "type": "file",
+        "content": "file1.txt",
+        "characters": {
+            "count": 44,
+            "exclude-spaces": 36,
+            "most-used": {
+                "elements": [
+                    "o"
+                ],
+                "count": 4
+            }
+        },
+        "words": {
+            "count": 9,
+            "most-used": {
+                "elements": [
+                    "the"
+                ],
+                "count": 2
+            }
+        }
+    },
+    {
+        "type": "file",
+        "content": "file2.txt",
+        "characters": {
+            "count": 144,
+            "exclude-spaces": 122,
+            "most-used": {
+                "elements": [
+                    "s",
+                    "e"
+                ],
+                "count": 16
+            }
+        },
+        "words": {
+            "count": 23,
+            "most-used": {
+                "elements": [
+                    "the"
+                ],
+                "count": 3
+            }
+        }
+    },
+    {
+        "type": "file",
+        "content": "file3.txt",
+        "characters": {
+            "count": 12,
+            "exclude-spaces": 10,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        },
+        "words": {
+            "count": 3,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        }
+    },
+    {
+        "type": "file",
+        "content": "file4.txt",
+        "characters": {
+            "count": 13,
+            "exclude-spaces": 11,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        },
+        "words": {
+            "count": 3,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        }
+    },
+    {
+        "type": "file",
+        "content": "file5.txt",
+        "characters": {
+            "count": 51,
+            "exclude-spaces": 43,
+            "most-used": {
+                "elements": [
+                    "h",
+                    "e",
+                    "o",
+                    "i",
+                    "s"
+                ],
+                "count": 4
+            }
+        },
+        "words": {
+            "count": 9,
+            "most-used": {
+                "elements": [
+                    "the"
+                ],
+                "count": 2
+            }
+        }
+    },
+    {
+        "type": "file",
+        "content": "file6.txt",
+        "characters": {
+            "count": 72,
+            "exclude-spaces": 61,
+            "most-used": {
+                "elements": [
+                    "e",
+                    "o"
+                ],
+                "count": 6
+            }
+        },
+        "words": {
+            "count": 12,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        }
+    },
+    {
+        "type": "file",
+        "content": "file7.txt",
+        "characters": {
+            "count": 52,
+            "exclude-spaces": 41,
+            "most-used": {
+                "elements": [
+                    "e",
+                    "t"
+                ],
+                "count": 6
+            }
+        },
+        "words": {
+            "count": 12,
+            "most-used": {
+                "elements": [
+                    "the",
+                    "hat"
+                ],
+                "count": 2
+            }
+        }
+    },
+    {
+        "type": "file",
+        "content": "file8.txt",
+        "characters": {
+            "count": 14,
+            "exclude-spaces": 12,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        },
+        "words": {
+            "count": 3,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        }
+    },
+    {
+        "type": "file",
+        "content": "file9.txt",
+        "characters": {
+            "count": 15,
+            "exclude-spaces": 13,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        },
+        "words": {
+            "count": 3,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        }
+    },
+    {
+        "type": "file",
+        "content": "file10.txt",
+        "characters": {
+            "count": 45,
+            "exclude-spaces": 38,
+            "most-used": {
+                "elements": [
+                    "e"
+                ],
+                "count": 8
+            }
+        },
+        "words": {
+            "count": 8,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        }
+    },
+    {
+        "type": "file",
+        "content": "file11.txt",
+        "characters": {
+            "count": 10,
+            "exclude-spaces": 9,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        },
+        "words": {
+            "count": 2,
+            "most-used": {
+                "elements": [],
+                "count": 0
+            }
+        }
+    },
+    {
+        "type": "file",
+        "content": "file12.txt",
+        "characters": {
+            "count": 135,
+            "exclude-spaces": 109,
+            "most-used": {
+                "elements": [
+                    "a"
+                ],
+                "count": 14
+            }
+        },
+        "words": {
+            "count": 27,
+            "most-used": {
+                "elements": [
+                    "a"
+                ],
+                "count": 4
+            }
+        }
+    },
+    {
+        "type": "file",
+        "content": "file13.txt",
+        "characters": {
+            "count": 50,
+            "exclude-spaces": 39,
+            "most-used": {
+                "elements": [
+                    "e"
+                ],
+                "count": 9
+            }
+        },
+        "words": {
+            "count": 12,
+            "most-used": {
+                "elements": [
+                    "i",
+                    "never"
+                ],
+                "count": 2
+            }
+        }
+    },
+    {
+        "type": "file",
+        "content": "file14.txt",
+        "characters": {
+            "count": 136,
+            "exclude-spaces": 115,
+            "most-used": {
+                "elements": [
+                    "n",
+                    "a",
+                    "e"
+                ],
+                "count": 13
+            }
+        },
+        "words": {
+            "count": 22,
+            "most-used": {
+                "elements": [
+                    "a",
+                    "and"
+                ],
+                "count": 2
+            }
+        }
+    }
+]
