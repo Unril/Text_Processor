@@ -323,20 +323,6 @@ class Menu(private val argsList: List<String>) {
             val (input, type) = input(args) ?: return
             val formatted = FormattedText(input, type)
             output(formatted.toString())
-//            when (type) {
-//                InputType.TEXT -> {
-//                    println("$formatted\nPlease enter a file path if you wish to save the result, or simply press ENTER to continue:")
-//                    val path = readlnOrNull()
-//                    if (path.isNullOrBlank()) return
-//                    File(path).writeText(formatted.toString())
-//                    println("Formatted text saved to the file successfully!")
-//                }
-//
-//                InputType.FILE -> {
-//                    File(input).writeText(formatted.toString())
-//                    println("Formatting successfully completed! Check the file for the result.")
-//                }
-//            }
         }
     }
 }
